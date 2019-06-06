@@ -7,5 +7,7 @@ usage: mastermind.py [-h] [-digit DIGIT] [-rank]
 
 optional arguments:
   -h, --help    show this help message and exit
+  
   -digit DIGIT  number of digits to guess. Default is 3
+  
   -rank         Save game score to rank list. Default is no ranking 
