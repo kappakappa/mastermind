@@ -18,4 +18,4 @@ optional arguments:
 
 ## Requirements
 
-To run mastermind.py you need Python 3 version
+Mastermind.py requires Python 3 version
