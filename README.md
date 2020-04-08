@@ -3,7 +3,7 @@ MasterMind game require a digits sequence for guess the secret code. Output prov
 
 ## How do I use MasterMind?
 
-You can run the game with the follow options:
+You can run the game using the follow options:
 
 ```
 usage: mastermind.py [-h] [-digit DIGIT] [-rank]
