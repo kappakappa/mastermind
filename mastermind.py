@@ -15,14 +15,14 @@ from datetime import datetime
 
 __author__ = "Luca Cappelli"
 __license__ = "GPL"
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 __maintainer__ = "Luca Cappelli"
-__status__ = "Production"
+__status__ = "Dev"
 
 # default value for configuration
 
-digit = 3           # number of digit to guess
-score = 1000        # point for the Game
+digit = 4        # number of digit to guess
+score = 2000        # point for the Game
 code_seq = []       # array for input sequence
 secret_seq = []     # array for random sequence
 num_attempt = 0     # number of attempt for score
