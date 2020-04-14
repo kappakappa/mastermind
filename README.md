@@ -1,5 +1,5 @@
 # MasterMind
-MasterMind game require a digits sequence for guess the secret code. Output provides a hint on the number of right digits, in the right position, and the number of right digits on wrong position. There are no limits on the number of attempts to guess the secret code.
+MasterMind game requires a digits sequence for guess the secret code. Output provides a hint on the number of right digits, in the right position, and the number of right digits on wrong position. There are no limits on the number of attempts to guess the secret code.
 
 ## How do I use MasterMind?
 
